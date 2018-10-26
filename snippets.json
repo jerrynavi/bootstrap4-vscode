@@ -145,7 +145,7 @@
   },
   "button outline" : {
     "prefix" : "b4-button-outline",
-    "body" : "<button type=\"button\" class=\"btn btn-${2:primary|secondary|success|danger|warning|info|light|dark|link}-outline\">$1</button>$0",
+    "body" : "<button type=\"button\" class=\"btn btn-outline-${2:primary|secondary|success|danger|warning|info|light|dark|link}\">$1</button>$0",
     "description" : "button outline",
     "scope" : ""
   },
